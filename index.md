@@ -61,7 +61,7 @@ Playing CSGO🔫 and writin code💻 sometimes.
   - [CODING CLUB NITJ](https://github.com/priyanshu-panwar/Coding-Club-NITJ)
   
 ## Gaming
-  ### Counter Strike - Global Offensive
+  # Counter Strike - Global Offensive
   - [Steam Profile](https://steamcommunity.com/id/priyanshu_panwar)
   - [Checkout my INVENTORY](https://steamcommunity.com/id/priyanshu_panwar/inventory/)
   
