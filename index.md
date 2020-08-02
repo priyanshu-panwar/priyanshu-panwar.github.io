@@ -1,4 +1,6 @@
 ## Priyanshu Panwar
+![main](https://user-images.githubusercontent.com/51286676/89117476-c1959500-d4bb-11ea-88ff-d111ff7f7f5f.jpg)
+
 
 You can use the [editor on GitHub](https://github.com/priyanshu-panwar/priyanshu-panwar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,4 +25,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://raw.githubusercontent.com/priyanshu-panwar/priyanshu-panwar.github.io/master/main.jpg)
+[Link](url) and ![Image]()
