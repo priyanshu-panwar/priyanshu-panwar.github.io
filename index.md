@@ -3,7 +3,7 @@ Playing CSGO🔫 and writin code💻 sometimes.
 
 
 ## Reach Me 
- - [LinkedIn](www.linkedin.com/in/priyanshu-panwar/)
+ - [LinkedIn](https://www.linkedin.com/in/priyanshu-panwar/)
  - 📱 917456911835
  - ✉️ priyanshu009ch@gmail.com
 
