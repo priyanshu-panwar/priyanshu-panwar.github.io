@@ -49,7 +49,7 @@ Playing CSGO🔫 and writin code💻 sometimes.
  - BiggBambooo - Personal Freelance Site
    - January 2020 - Present
    - [Check out](https://biggbambooo.business.site/)
-   - [View on Google, Check out my reviews](View on Google: https://g.page/softkartpy?we)
+   - [View on Google, Check out my reviews](https://g.page/softkartpy?we)
    - Web Development, Python GUI, Mini Python Projects, Teaching Python, C++
 
 ## Projects
