@@ -1,4 +1,5 @@
-### Priyanshu Panwar
+## Priyanshu Panwar
+![main](https://user-images.githubusercontent.com/51286676/90327381-bd37a480-dfb0-11ea-8a51-27f603a24849.jpg)
 Playing CSGO🔫 and writin code💻 sometimes.
 
 
