@@ -1,12 +1,12 @@
 ## Priyanshu Panwar
-<img src="https://user-images.githubusercontent.com/51286676/90327381-bd37a480-dfb0-11ea-8a51-27f603a24849.jpg" data-canonical-src="https://user-images.githubusercontent.com/51286676/90327381-bd37a480-dfb0-11ea-8a51-27f603a24849.jpg" width="250" height="300" /><br>
+<img src="https://user-images.githubusercontent.com/51286676/122342290-16ba8800-cf62-11eb-8ce7-5113e7f47902.png" data-canonical-src="https://user-images.githubusercontent.com/51286676/122342290-16ba8800-cf62-11eb-8ce7-5113e7f47902.png" width="250" height="250" /><br>
 Playing CSGO🔫 and writin code💻 sometimes.
 
 
 ## Reach Me 
  - [LinkedIn](https://www.linkedin.com/in/priyanshu-panwar/)
  - 📱 917456911835
- - ✉️ priyanshu009ch@gmail.com
+ - ✉️ [priyanshu009ch@gmail.com](mailto:priyanshu009ch@gmail.com)
 
 ## Coding Profiles
  - [LeetCode](https://leetcode.com/priyanshu-panwar/)
